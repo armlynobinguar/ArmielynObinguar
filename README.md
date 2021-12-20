@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td>Computational Politics </td>
-    <td><a OmdenaAI / omdena-philippines-computational-politics</a></td>
+    <td><a Omdena Philippines Computational Politics </a></td>
     <td>FINISHED</td>
   </tr>
   <tr>
