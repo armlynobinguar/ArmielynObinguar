@@ -1,6 +1,4 @@
 
-![citynights](https://e360.yale.edu/assets/site/Sundarbans_edited.jpeg)
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Junior Machine Learning Engineer +and+Data Scientist ;AI Researcher)
 <!-- <h4><strong>Hello there, i'm <a href="insert_website_link" target="_blank" rel="noopener noreferrer">Armielyn C. Obinguar</a></strong></h4> -->
 <h4><strong>Hello there, i'm Armielyn Obinguar</strong>.</h4>
 <p>I'm a Junior Machine Learning Engineer  and a physics undergrad at <a href="https://www.pup.edu.ph/">PUP Manila</a>. I am:</p>
