@@ -44,4 +44,9 @@
     <td>Japan Safe Path Natural Disasters Using AI</td>
     <td>ON-GOING</td>
   </tr>
+   </tr>
+   <td>Computer Vision</td>
+    <td>Improving Water Supply Sustainability in Nigeria Through Computer Vision</td>
+    <td>ON-GOING</td>
+  </tr>
 </table>
