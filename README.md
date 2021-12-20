@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td>Computational Politics </td>
-    <td><a Omdena Philippines Computational Politics </a></td>
+    <td> Omdena Philippines Computational Politics </td>
     <td>FINISHED</td>
   </tr>
   <tr>
