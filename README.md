@@ -50,3 +50,31 @@
     <td>ON-GOING</td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <th>Data Science and AI Field Courses</th>
+    <th>Course Title</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td>Smart Health </td>
+    <td> Machine Learning for Smart Health System </td>
+    <td>FINISHED</td>
+  </tr>
+  <tr>
+    <td>Natural Language Processing</td>
+    <td>Hate Speech Detection</td>
+    <td>FINISHED</td>
+  </tr>
+   <td>MLOPS Machine Learning</td>
+    <td>MLOPS For AI Engineers and Data Scientists</td>
+    <td>ON-GOING</td>
+  </tr>
+   </tr>
+   <td>Computer Vision</td>
+    <td>Mastering Computer Vision to make an Impact</td>
+    <td>ON-GOING</td>
+  </tr>
+</table>
+
