@@ -15,7 +15,6 @@
 </p>
 <!-- markdownlint-enable MD033 -->
 
-<h4><strong>Hello there, i'm Armielyn Obinguar</strong>.</h4>
 <p>I'm a Junior Machine Learning Engineer  and a physics undergrad at <a href="https://www.pup.edu.ph/">PUP Manila</a>. I am:</p>
 <ul>
   <li>Currently working on Data Science and Artificial Intelligence Projects in OMDENA .</li>
