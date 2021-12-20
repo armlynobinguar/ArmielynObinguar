@@ -21,3 +21,23 @@
   <li>Currently improving my skills and knowledge in the field of Artificial Intelligence (AI).</li>
   
 
+
+
+
+<table>
+  <tr>
+    <th>Data Science and AI Field</th>
+    <th>Project Title</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td>Computational Politics </td>
+    <td><a OmdenaAI / omdena-philippines-computational-politics</a></td>
+    <td>FINISHED</td>
+  </tr>
+  <tr>
+    <td>Remote Sensing and Satellite Imagery</td>
+    <td>Developing an AI Model to Identify School Locations in Sudan from Satellite Imagery</td>
+    <td>ON-GOING</td>
+  </tr>
+</table>
