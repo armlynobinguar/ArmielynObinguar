@@ -1,4 +1,14 @@
 
+
+
+<!-- markdownlint-disable MD033 MD041-->
+<p align="center">
+  <h3 align="center">⌨️ Armielyn Obinguar </h3>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Type+messages+everywhere!;I'm+a+Junior +Machine+Learning+Engineer!;AI+Researcher!;Data+Scientist!&font=Fira%20Code&center=true&width=380&height=50">
+</p>
 <!-- <h4><strong>Hello there, i'm <a href="insert_website_link" target="_blank" rel="noopener noreferrer">Armielyn C. Obinguar</a></strong></h4> -->
 <h4><strong>Hello there, i'm Armielyn Obinguar</strong>.</h4>
 <p>I'm a Junior Machine Learning Engineer  and a physics undergrad at <a href="https://www.pup.edu.ph/">PUP Manila</a>. I am:</p>
