@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hey there! 👋
 
-Here are some ideas to get you started:
+Here's the brief description about me: 
 
 - 🔭 I’m currently an undergrad in Physics 
 - 🌱 I’m currently learning Data Science and Artificial Intelligence 
