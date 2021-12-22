@@ -30,7 +30,7 @@
   </tr>
    <td>Remote Sensing and Satellite Imagery</td>
     <td>Japan Safe Path Natural Disasters Using AI</td>
-    <td>ON-GOING</td>
+    <td>FINISHED</td>
   </tr>
    </tr>
    <td>Computer Vision</td>
