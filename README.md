@@ -3,11 +3,12 @@
 ![Data Science and AI Intern](https://github.com/ArmielynObinguar/ArmielynObinguar/blob/main/Blue%20Green%20and%20White%20Modern%20Aesthetic%20Productivity%20Guide%20LinkedIn%20Article%20Cover%20Image.png)
 
 
-<p>I'm a Junior Machine Learning Engineer at <a href="https://omdena.com/">Omdena</a>  and a physics undergrad at <a href="https://www.pup.edu.ph/">PUP Manila</a>. I am:</p>
-<ul>
-  <li>Currently working on Data Science and Artificial Intelligence Projects in OMDENA .</li>
-  <li>Currently improving my skills and knowledge in the field of Artificial Intelligence (AI).</li>
-  
+<p>I'm a Junior Machine Learning Engineer at <a href="https://omdena.com/">Omdena</a>  
+  <p> I'm also a physics undergrad at <a href="https://www.pup.edu.ph/">PUP Manila</a>.
+    <p> I'm also currently an OSM Champion and onboarding for She Leads and She Inspires program of   at <a href="https://www.hotosm.org/"> Humanitaarian Open Street Map 
+      
+    
+   
 
 
 
