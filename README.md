@@ -5,7 +5,7 @@
 
 <p>I'm a Junior Machine Learning Engineer at <a href="https://omdena.com/">Omdena</a>  
   <p> I'm also a physics undergrad at <a href="https://www.pup.edu.ph/">PUP Manila</a>.
-    <p> I'm also currently an OSM Champion and onboarding for She Leads and She Inspires program of   at <a href="https://www.hotosm.org/"> Humanitaarian Open Street Map 
+    <p> I'm also currently an OSM Champion and onboarding for She Leads and She Inspires program   at <a href="https://www.hotosm.org/"> Humanitaarian Open Street Map 
       
     
    
