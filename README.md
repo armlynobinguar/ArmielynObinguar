@@ -27,7 +27,7 @@
   <tr>
     <td>Remote Sensing and Satellite Imagery</td>
     <td>Developing an AI Model to Identify School Locations in Sudan from Satellite Imagery</td>
-    <td>ON-GOING</td>
+    <td>FINISHED</td>
   </tr>
    <td>Remote Sensing and Satellite Imagery</td>
     <td>Japan Safe Path Natural Disasters Using AI</td>
