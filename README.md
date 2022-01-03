@@ -8,8 +8,7 @@
     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=26&vCenter=true&lines=Check+out+and+see+my+projects+so+far)](https://git.io/typing-svg) 
 
-
-
+<p> I'm passionate in doing Data Science and Artificial Intelligence Projects at Omdena and an Aspiring Lead Machine Learning Engineer </a>
 
 <table>
   <tr>
