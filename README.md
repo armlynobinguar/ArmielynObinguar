@@ -1,6 +1,6 @@
 
 
-![Data Science and AI Intern](https://github.com/ArmielynObinguar/ArmielynObinguar/blob/main/Blue%20Green%20and%20White%20Modern%20Aesthetic%20Productivity%20Guide%20LinkedIn%20Article%20Cover%20Image.png)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F756C3&size=22&lines=A+Data+Science+and+AI+Intern%2F+Science+Communicator%2F+Project+Collaborator%2F+OSM+Champion%2F+Junior+Machine+Learning+Engineer+)](https://git.io/typing-svg)
 
 
 <p>I'm a Junior Machine Learning Engineer at <a href="https://omdena.com/">Omdena</a>  
