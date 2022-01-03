@@ -5,9 +5,8 @@
   <p> I'm also currently pursuing physics as an undergrad degree at <a href="https://www.pup.edu.ph/">PUP Manila</a>.
     <p> I'm an Intern at SmartCT+BNHR and an OSM Champion onboarding for Community Project Leader in the program of She Inspires and She Leads    at <a href="https://www.hotosm.org/"> Humanitaarian Open Street Map 
       
-      <p> I'm currently a Research Member at PUP Hygears for science and technology innovations for local and international competitions </a> 
-      <p> I'm a Researcher at Computational Physics Research Group at a href="https://www.pup.edu.ph/">PUP Manila</a>.
-      
+     I'm currently a Research Member at PUP Hygears for science and technology innovations for local and international competitions
+       I'm a Researcher at Computational Physics Research Group at a href="https://www.pup.edu.ph/">PUP Manila
     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=26&vCenter=true&lines=Check+out+and+see+my+projects+so+far)](https://git.io/typing-svg) 
 
