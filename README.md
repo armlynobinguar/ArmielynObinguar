@@ -1,9 +1,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=26&vCenter=true&lines=Hello+there!+)](https://git.io/typing-svg)
 
-<p>I'm a Junior Machine Learning Engineer at <a href="https://omdena.com/">Omdena</a>  
-  <p> I'm also a physics undergrad at <a href="https://www.pup.edu.ph/">PUP Manila</a>.
-    <p> I'm also currently an OSM Champion and onboarding for She Leads and She Inspires program   at <a href="https://www.hotosm.org/"> Humanitaarian Open Street Map 
+<p>I'm a Project Collaborator and Junior Machine Learning Engineer at <a href="https://omdena.com/">Omdena</a>  
+  <p> I'm also currently pursuing physics as an undergrad degree at <a href="https://www.pup.edu.ph/">PUP Manila</a>.
+    <p> I'm an Intern at SmartCT+BNHR and an OSM Champion onboarding for Community Project Leader in the program of She Inspires and She Leads    at <a href="https://www.hotosm.org/"> Humanitaarian Open Street Map 
       
     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=26&vCenter=true&lines=Check+out+and+see+my+projects+so+far)](https://git.io/typing-svg) 
