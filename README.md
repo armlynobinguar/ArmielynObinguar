@@ -15,33 +15,52 @@
 
 <table>
   <tr>
-    <th>Data Science and AI Field</th>
+    <th>Project Data Science and AI Field</th>
     <th>Project Title</th>
     <th>Status</th>
+    <th>Date Started</th>
+    <th>Date Ended</th>
+    <th>Omdena Chatper</th>
+    
   </tr>
   <tr>
     <td>Natural Language Processing </td>
     <td> Omdena Philippines Computational Politics </td>
-    <td>FINISHED</td>
+    <td>Finished</td>
+    <td>October 09, 2021 </td>
+    <td>December 11,2021</th>
+    <td>Omdena Philippines Chapter </th>
   </tr>
   <tr>
     <td>Remote Sensing and Satellite Imagery</td>
     <td>Developing an AI Model to Identify School Locations in Sudan from Satellite Imagery</td>
-    <td>FINISHED</td>
+    <td>Finished</td>
+    <td>November 12, 2021 </td>
+    <td>January 01, 2021</th>
+      <td>Omdena Sudan Chapter </th>
   </tr>
    <td>Remote Sensing and Satellite Imagery</td>
     <td>Japan Safe Path Natural Disasters Using AI</td>
-    <td>FINISHED</td>
+    <td>Finished</td>
+    <td>November 25, 2021 </td>
+    <td>January 00, 2022</th>
+    <td>Omdena Japan Chapter </th>
   </tr>
    </tr>
    <td>Computer Vision</td>
     <td>Improving Water Supply Sustainability in Nigeria Through Computer Vision</td>
-    <td>ON-GOING</td>
+    <td>On-Going</td>
+    <td>December 04, 2021 </td>
+    <td>January 00, 2022</th>
+    <td>Omdena Nigeria Chapter  </th>
   </tr>
    <tr>
     <th>Computer Vision</th>
     <th>Detecting Violent Behavior between Caregivers and Children Using Computer Vision and Deep Learning</th>
     <th>On Going</th>
+    <td>Januarry 10, 2022 </td>
+    <td>February 00, 2022</th>
+    <td>Omdena Chapter </th>
   </tr>
   <tr>
 </table>
