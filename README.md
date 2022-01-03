@@ -6,7 +6,7 @@
     <p> I'm also currently an OSM Champion and onboarding for She Leads and She Inspires program   at <a href="https://www.hotosm.org/"> Humanitaarian Open Street Map 
       
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=26&vCenter=true&lines=Here's+my+projects+)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=26&vCenter=true&lines=Check+out+and+see+myprojects+so+far)](https://git.io/typing-svg) 
 
 
 
