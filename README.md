@@ -1,7 +1,5 @@
 
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F77127&size=21&multiline=true&lines=Data+Science+and+AI+Intern+;OSM+Champion+;Junior+Machine+Learning+Engineer;Project+Collaborator+)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F78E1A&size=16&center=true&vCenter=true&multiline=true&width=402&lines=Data+Science+and+AI+Enthusiast+;Junior+Machine+Learning+Engineer+)](https://git.io/typing-svg)
 
 <p>I'm a Junior Machine Learning Engineer at <a href="https://omdena.com/">Omdena</a>  
   <p> I'm also a physics undergrad at <a href="https://www.pup.edu.ph/">PUP Manila</a>.
