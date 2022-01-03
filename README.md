@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F756C3&size=22&lines=A+Data+Science+and+AI+Intern%2F+Science+Communicator%2F+Project+Collaborator%2F+OSM+Champion%2F+Junior+Machine+Learning+Engineer+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F77127&size=21&multiline=true&lines=Data+Science+and+AI+Intern+;OSM+Champion+;Junior+Machine+Learning+Engineer;Project+Collaborator+)](https://git.io/typing-svg)
 
 
 <p>I'm a Junior Machine Learning Engineer at <a href="https://omdena.com/">Omdena</a>  
