@@ -38,6 +38,12 @@
     <td>Improving Water Supply Sustainability in Nigeria Through Computer Vision</td>
     <td>ON-GOING</td>
   </tr>
+   <tr>
+    <th>Computer Vision</th>
+    <th>Detecting Violent Behavior between Caregivers and Children Using Computer Vision and Deep Learning</th>
+    <th>On Going</th>
+  </tr>
+  <tr>
 </table>
 
 
