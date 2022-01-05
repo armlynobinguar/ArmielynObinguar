@@ -57,14 +57,6 @@
     <td>Omdena Nigeria Chapter  </th>
   </tr>
    <tr>
-    <th>Computer Vision</th>
-    <th>Detecting Violent Behavior between Caregivers and Children Using Computer Vision and Deep Learning</th>
-    <th>On Going</th>
-    <td>Januarry 10, 2022 </td>
-    <td>February 00, 2022</th>
-    <td>Omdena Chapter </th>
-  </tr>
-  <tr>
 </table>
 
 
