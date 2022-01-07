@@ -1,6 +1,4 @@
-[![Actions Status](https://github.com/ArmielynObinguar/ArmielynObinguar/workflows/wakatime-stats/badge.svg)](https://github.com/ArmielynObinguar/ArmielynObinguar/actions)
-[![Actions Status](https://github.com/ArmielynObinguar/ArmielynObinguar/workflows/update-gh-activity/badge.svg)](https://github.com/ArmielynObinguar/ArmielynObinguar/actions)
-![](https://visitor-badge.ArmielynObinguar.me/badge?page_id=ArmielynObinguar.ArmielynObinguar)
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=26&vCenter=true&lines=Hello+there!+)](https://git.io/typing-svg)
 
