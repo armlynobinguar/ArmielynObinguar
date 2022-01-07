@@ -60,7 +60,7 @@
    <td>Natural Language Processing</td>
     <td>Building a chatbot to help with the general mental well-being of the Australian community</td>
     <td>On-Going</td>
-    <td>Jnauary 07, 2022</td>
+    <td>January 07, 2022</td>
     <td>February 00, 2022</th>
     <td>Omdena Australia Chapter  </th>
   </tr>
