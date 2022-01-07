@@ -2,12 +2,21 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=26&vCenter=true&lines=Hello+there!+)](https://git.io/typing-svg)
 
-<p>I'm a Project Collaborator and Junior Machine Learning Engineer at Omdena  </a>
-<p> I'm also currently pursuing physics as an undergrad degree at PUP Manila  </a>
-  
-      
-     I'm currently a Research Member at PUP Hygears for science and technology innovations for local and international competitions
-       I'm a Researcher at Computational Physics Research Group at PUP Manila
+
+```yaml
+name: Armielyn Obinguar
+located_in: Manila, Philippines
+from: Manila, Philippines
+extracullicular activities: ["Junior Machine Learning Trainee", "Project Collaborator", "OSM Champion Community Project Leader Trainee"] 
+education: ["BSc. in Physics"]
+organization: ["Omdena", "Humanitarian Open Street Map", "PUP Hygears", "Smart CT+BNHR"
+
+technical_interests: ["Computer Vision", "Remote Sensing", "Natural Language Processing", 
+                      "Web Development"]
+currently_learning: ["ReactJS, VueJS, Python, SQL, Julia"]
+
+```
+
        
  [![Twitter Badge](https://img.shields.io/badge/-@ArmlynObngr-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ArmlynObngr)](https://twitter.com/ArmlynObngr)  [![Instagram Badge](https://img.shields.io/badge/-@aemytech-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/aemytech/)](https://www.instagram.com/aemytech/)
 [![Linkedin: Armielyn](https://img.shields.io/badge/-Armielyn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/armielyn-obinguar-9229561b0/)](https://www.linkedin.com/in/armielyn-obinguar-9229561b0/)
