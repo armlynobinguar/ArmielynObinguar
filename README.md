@@ -12,8 +12,9 @@ education: ["BSc. in Physics"]
 organization: ["Omdena", "Humanitarian Open Street Map", "PUP Hygears", "Smart CT+BNHR"
 
 technical_interests: ["Computer Vision", "Remote Sensing", "Natural Language Processing", 
-                      "Web Development"]
+                      "Web Development", "Robotics", "Artificial Intelligence and Data Science" ]
 currently_learning: ["ReactJS, VueJS, Python, SQL, Julia"]
+
 
 ```
 
