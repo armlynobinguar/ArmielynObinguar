@@ -62,7 +62,7 @@ currently_learning: ["ReactJS, VueJS, Python, SQL, Julia"]
    </tr>
    <td>Computer Vision</td>
     <td>Improving Water Supply Sustainability in Nigeria Through Computer Vision</td>
-    <td>On-Going</td>
+    <td>Finished</td>
     <td>December 04, 2021 </td>
     <td>January 00, 2022</th>
     <td>Omdena Nigeria Chapter  </th>
