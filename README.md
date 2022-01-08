@@ -34,6 +34,7 @@ currently_learning: ["ReactJS, VueJS, Python, SQL, Julia"]
     <th>Date Started</th>
     <th>Date Ended</th>
     <th>Omdena Chatper</th>
+    <th> Role </th>
     
   </tr>
   <tr>
@@ -43,6 +44,7 @@ currently_learning: ["ReactJS, VueJS, Python, SQL, Julia"]
     <td>October 09, 2021 </td>
     <td>December 11,2021</th>
     <td>Omdena Philippines Chapter </th>
+    <td> Task Member, Project Collaborator </td>
   </tr>
   <tr>
     <td>Remote Sensing and Satellite Imagery</td>
@@ -51,6 +53,7 @@ currently_learning: ["ReactJS, VueJS, Python, SQL, Julia"]
     <td>November 12, 2021 </td>
     <td>January 01, 2021</th>
       <td>Omdena Sudan Chapter </th>
+      <td> Task Manager, Junior Machine Learning Engineer </td>
   </tr>
    <td>Remote Sensing and Satellite Imagery</td>
     <td>Japan Safe Path Natural Disasters Using AI</td>
@@ -58,6 +61,7 @@ currently_learning: ["ReactJS, VueJS, Python, SQL, Julia"]
     <td>November 25, 2021 </td>
     <td>January 00, 2022</th>
     <td>Omdena Japan Chapter </th>
+     <td> Task Manager, Junior Machine Learning Engineer </td>
   </tr>
    </tr>
    <td>Computer Vision</td>
@@ -66,6 +70,7 @@ currently_learning: ["ReactJS, VueJS, Python, SQL, Julia"]
     <td>December 04, 2021 </td>
     <td>January 00, 2022</th>
     <td>Omdena Nigeria Chapter  </th>
+     <td> Task Manager, Junior Machine Learning Engineer </td>
   </tr>
    <tr>
    <td>Natural Language Processing</td>
