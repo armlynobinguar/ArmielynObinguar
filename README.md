@@ -21,6 +21,8 @@ currently_learning: ["ReactJS, VueJS, Python, SQL, Julia"]
        
  [![Twitter Badge](https://img.shields.io/badge/-@ArmlynObngr-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ArmlynObngr)](https://twitter.com/ArmlynObngr)  [![Instagram Badge](https://img.shields.io/badge/-@aemytech-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/aemytech/)](https://www.instagram.com/aemytech/)
 [![Linkedin: Armielyn](https://img.shields.io/badge/-Armielyn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/armielyn-obinguar-9229561b0/)](https://www.linkedin.com/in/armielyn-obinguar-9229561b0/)
+[![Hashnode: Armielyn](https://img.shields.io/badge/-Armielyn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://armielyntech.hashnode.dev/)](https://armielyntech.hashnode.dev/)
+
     
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArmielynObinguar&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="ArmielynObinguar's Github Stats">
