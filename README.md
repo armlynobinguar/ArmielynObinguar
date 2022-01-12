@@ -82,6 +82,7 @@ currently_learning: ["ReactJS, VueJS, Python, SQL, Julia"]
     <td>January 07, 2022</td>
     <td>February 00, 2022</th>
     <td>Omdena Australia Chapter  </th>
+  <td> Task Manager, Junior Machine Learning Engineer </td>
   </tr>
 </table>
 
