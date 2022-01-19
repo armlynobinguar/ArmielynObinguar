@@ -76,14 +76,6 @@ currently_learning: ["ReactJS, VueJS, Python, SQL, Julia"]
      <td> Task Manager, Junior Machine Learning Engineer </td>
   </tr>
    <tr>
-   <td>Natural Language Processing</td>
-    <td>Building a chatbot to help with the general mental well-being of the Australian community</td>
-    <td>On-Going</td>
-    <td>January 07, 2022</td>
-    <td>February 00, 2022</th>
-    <td>Omdena Australia Chapter  </th>
-  <td> Task Manager, Junior Machine Learning Engineer </td>
-  </tr>
 </table>
 
 
