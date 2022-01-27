@@ -54,7 +54,7 @@ currently_learning: ["ReactJS, VueJS, Python, SQL, Julia"]
     <td>Developing an AI Model to Identify School Locations in Sudan from Satellite Imagery</td>
     <td>Finished</td>
     <td>November 12, 2021 </td>
-    <td>January 01, 2021</th>
+    <td>January 28, 2021</th>
       <td>Omdena Sudan Chapter </th>
       <td> Task Manager, Junior Machine Learning Engineer </td>
   </tr>
@@ -71,7 +71,7 @@ currently_learning: ["ReactJS, VueJS, Python, SQL, Julia"]
     <td>Improving Water Supply Sustainability in Nigeria Through Computer Vision</td>
     <td>Finished</td>
     <td>December 04, 2021 </td>
-    <td>January 00, 2022</th>
+    <td>January 25, 2022</th>
     <td>Omdena Nigeria Chapter  </th>
      <td> Task Manager, Junior Machine Learning Engineer </td>
   </tr>
