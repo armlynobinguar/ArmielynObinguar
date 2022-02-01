@@ -84,6 +84,13 @@ currently_learning: ["ReactJS, VueJS, Python, SQL, Julia"]
     <td>Omdena Australia Chapter  </th>
      <td> Task Member, Junior Machine Learning Engineer </td>
   </tr>
+    <td>Natural Language Processing</td>
+    <td>TojuAfrica - Facilitating access to financial services for underserved populations in Africa </td>
+    <td>On-Going</td>
+    <td>February 02, 2022 </td>
+    <td>March  00,2022</th>
+    <td>Omdena Africa Chapter  </th>
+     <td> Machine Learning Engineer </td>
 </table>
 
 
