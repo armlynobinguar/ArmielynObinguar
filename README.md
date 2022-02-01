@@ -88,7 +88,15 @@ currently_learning: ["ReactJS, VueJS, Python, SQL, Julia"]
     <td>TojuAfrica - Facilitating access to financial services for underserved populations in Africa </td>
     <td>On-Going</td>
     <td>February 02, 2022 </td>
-    <td>March  00,2022</th>
+    <td>April  00,2022</th>
+    <td>Omdena Africa Chapter  </th>
+     <td> Machine Learning Engineer </td>
+     </tr>
+    <td>Natural Language Processing</td>
+    <td>Politics Fake News Detector in LATAM (Latin America) </td>
+    <td>On-Going</td>
+    <td>February 06, 2022 </td>
+    <td>April 04,2022</th>
     <td>Omdena Africa Chapter  </th>
      <td> Machine Learning Engineer </td>
 </table>
