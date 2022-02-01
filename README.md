@@ -97,7 +97,7 @@ currently_learning: ["ReactJS, VueJS, Python, SQL, Julia"]
     <td>On-Going</td>
     <td>February 06, 2022 </td>
     <td>April 04,2022</th>
-    <td>Omdena Africa Chapter  </th>
+    <td>EAFIT University, Colombia Chapter </th>
      <td> Machine Learning Engineer </td>
 </table>
 
