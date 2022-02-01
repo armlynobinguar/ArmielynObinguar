@@ -62,7 +62,7 @@ currently_learning: ["ReactJS, VueJS, Python, SQL, Julia"]
     <td>Japan Safe Path Natural Disasters Using AI</td>
     <td>Finished</td>
     <td>November 25, 2021 </td>
-    <td>January 00, 2022</th>
+    <td>February 00, 2022</th>
     <td>Omdena Japan Chapter </th>
      <td> Task Manager, Junior Machine Learning Engineer </td>
   </tr>
