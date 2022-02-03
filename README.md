@@ -113,7 +113,7 @@ currently_learning: ["ReactJS, VueJS, Python, SQL, Julia"]
     <td>On-Going</td>
     <td>February 05, 2022 </td>
     <td>March 2022</th>
-    <td> Giza, Egypt Chapter </td>
+    <td> Omdena Giza, Egypt Chapter </td>
      <td> Machine Learning Engineer </td>
 </table>
 
