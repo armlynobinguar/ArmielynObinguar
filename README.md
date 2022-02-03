@@ -78,9 +78,9 @@ currently_learning: ["ReactJS, VueJS, Python, SQL, Julia"]
    <tr>
    <td>Natural Language Processing</td>
     <td>Mental Health Challenge Chatbot</td>
-    <td>On-Going</td>
+    <td>Finished</td>
     <td>January 07, 2022 </td>
-    <td>February  00,2022</th>
+    <td>February  04,2022</th>
     <td>Omdena Australia Chapter  </th>
      <td> Task Member, Junior Machine Learning Engineer </td>
   </tr>
