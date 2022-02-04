@@ -9,7 +9,7 @@ located_in: Manila, Philippines
 from: Manila, Philippines
 extracullicular activities: ["Machine Learning Engineer", "Project Collaborator", "OSM Champion Community Project Leader Trainee"] 
 education: ["BSc. in Physics"]
-organization: ["Omdena", "Humanitarian Open Street Map", "PUP Hygears", "Smart CT+BNHR"
+organization: ["Omdena", "Humanitarian Open Street Map", "PUP Hygears", "Smart CT+BNHR", "PUP Physics Organization" ]
 
 technical_interests: ["Computer Vision", "Remote Sensing", "Natural Language Processing", 
                       "Web Development", "Robotics", "Artificial Intelligence and Data Science" ]
