@@ -7,7 +7,7 @@
 name: Armielyn Obinguar
 located_in: Manila, Philippines
 from: Manila, Philippines
-extracullicular activities: ["Junior Machine Learning Trainee", "Project Collaborator", "OSM Champion Community Project Leader Trainee"] 
+extracullicular activities: ["Machine Learning Engineer", "Project Collaborator", "OSM Champion Community Project Leader Trainee"] 
 education: ["BSc. in Physics"]
 organization: ["Omdena", "Humanitarian Open Street Map", "PUP Hygears", "Smart CT+BNHR"
 
