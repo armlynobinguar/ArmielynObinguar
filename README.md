@@ -13,7 +13,7 @@ organization: ["Omdena", "Humanitarian Open Street Map", "PUP Hygears", "Smart C
 
 technical_interests: ["Computer Vision", "Remote Sensing", "Natural Language Processing", 
                       "Web Development", "Robotics", "Artificial Intelligence and Data Science" ]
-currently_learning: ["ReactJS, VueJS, Python, SQL, Julia"]
+currently_learning: ["ReactJS, VueJS, Python, SQL, Scala, Julia"]
 
 
 ```
