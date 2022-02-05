@@ -90,7 +90,7 @@ currently_learning: ["ReactJS, VueJS, Python, SQL, Scala, Julia"]
     <td>February 02, 2022 </td>
     <td>April  00,2022</th>
     <td>Omdena Africa Chapter  </th>
-     <td> Machine Learning Engineer </td>
+     <td> Task Member,  Machine Learning Engineer </td>
      </tr>
     <td>Natural Language Processing</td>
     <td>Politics Fake News Detector in LATAM (Latin America) </td>
