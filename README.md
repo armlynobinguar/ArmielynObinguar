@@ -108,7 +108,7 @@ currently_learning: ["ReactJS, VueJS, Python, SQL, Scala, Julia"]
     <td> Omdena Hamburg, Germany Chapter
      <td> Machine Learning Engineer </td>
      </tr> 
-     <td>Data Analysis</td>
+     <td>Natural Language Processing </td>
     <td>Creating & Analysing Open Data About Egypt </td>
     <td>On-Going</td>
     <td>February 05, 2022 </td>
