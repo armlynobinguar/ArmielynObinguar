@@ -1,27 +1,10 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=26&vCenter=true&lines=Hello+there!+)](https://git.io/typing-svg)
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-
-```yaml
-name: Armielyn Obinguar
-located_in: Manila, Philippines
-from: Manila, Philippines
-extracullicular activities: ["Machine Learning Engineer", "Project Collaborator", "OSM Champion Community Project Leader Trainee"] 
-education: ["BSc. in Physics"]
-organization: ["Omdena", "Humanitarian Open Street Map", "PUP Hygears", "Smart CT+BNHR", "PUP Physics Organization" ]
-
-technical_interests: ["Computer Vision", "Remote Sensing", "Natural Language Processing", 
-                      "Web Development", "Robotics", "Artificial Intelligence and Data Science" ]
-currently_learning: ["ReactJS, VueJS, Python, SQL, Scala, Julia"]
-
-
-```
-
-       
- [![Twitter Badge](https://img.shields.io/badge/-@ArmlynObngr-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ArmlynObngr)](https://twitter.com/ArmlynObngr)  [![Instagram Badge](https://img.shields.io/badge/-@aemytech-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/aemytech/)](https://www.instagram.com/aemytech/)
-[![Linkedin: Armielyn](https://img.shields.io/badge/-Armielyn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/armielyn-obinguar-9229561b0/)](https://www.linkedin.com/in/armielyn-obinguar-9229561b0/)
-[![Hashnode: Armielyn](https://img.shields.io/badge/-Armielyn-blue?style=flat-square&logo=Hashnode&logoColor=white&link=https://armielyntech.hashnode.dev/)](https://armielyntech.hashnode.dev/)
+## Hi there, I'm Burak <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="40px">
+[![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/ArmielynObinguar/ArmielynObinguar)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/armielyn-obinguar-9229561b0/)
 
     
 
