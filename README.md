@@ -89,7 +89,7 @@
     <td>February 09, 2022 </td>
     <td>March 2022</th>
     <td> Omdena Hamburg, Germany Chapter
-     <td> Machine Learning Engineer </td>
+     <td> Task Manager Machine Learning Engineer </td>
      </tr> 
      <td>Natural Language Processing </td>
     <td>Creating & Analysing Open Data About Egypt </td>
