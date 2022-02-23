@@ -73,7 +73,7 @@
     <td>February 02, 2022 </td>
     <td>April  00,2022</th>
     <td>Omdena Africa Chapter  </th>
-     <td> Task Member,  Machine Learning Engineer </td>
+     <td> Task Manager,,  Machine Learning Engineer </td>
      </tr>
     <td>Natural Language Processing</td>
     <td>Politics Fake News Detector in LATAM (Latin America) </td>
@@ -91,7 +91,7 @@
     <td> Omdena Hamburg, Germany Chapter
      <td> Task Manager Machine Learning Engineer </td>
      </tr> 
-     <td>Natural Language Processing </td>
+     <td>Data Analysis </td>
     <td>Creating & Analysing Open Data About Egypt </td>
     <td>On-Going</td>
     <td>February 05, 2022 </td>
