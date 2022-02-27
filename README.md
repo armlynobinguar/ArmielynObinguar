@@ -100,10 +100,5 @@
      <td> Task Manager, Machine Learning Engineer </td>
 </table>
 
-  <summary><b>🔎 Github Profile Details</b></summary>
-<p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArmielynObinguar-&theme=github_dark" alt="ArmielynObinguar-" align = "center"/></p>
-
-<summary><b>📊 Github Contribution Graph</b></summary>
-<p align="center"<a href="#"><img alt="Armielyn Obinguar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ArmielynObinguar-&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
-
+ 
 
