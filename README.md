@@ -85,7 +85,7 @@
      </tr>
      <td>Computer Vision</td>
     <td>Feasibility and ROI Analysis for Renewable Resources Infrastructure using Computer Vision </td>
-    <td>On-Going</td>
+    <td>Finished</td>
     <td>February 09, 2022 </td>
     <td>March 2022</th>
     <td> Omdena Hamburg, Germany Chapter
@@ -93,7 +93,7 @@
      </tr> 
      <td>Data Analysis </td>
     <td>Creating & Analysing Open Data About Egypt </td>
-    <td>On-Going</td>
+    <td>Finished</td>
     <td>February 05, 2022 </td>
     <td>March 2022</th>
     <td> Omdena Giza, Egypt Chapter </td>
